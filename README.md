@@ -1228,18 +1228,6 @@ This project demonstrates practical experience in:
 - Modular Python architecture
 - Version control and documentation
 
----
-
-# 📜 License
-
-This project is licensed under the **MIT License**.
-
-You are free to use, modify, and distribute this project in accordance with the terms of the license.
-
-See the `LICENSE` file for additional details.
-
----
-
 # 🙏 Acknowledgements
 
 Special thanks to:
@@ -1273,24 +1261,7 @@ Data Science & Machine Learning Intern
 
 **Project Type**
 
-Industry-Oriented End-to-End Machine Learning Project
-
-**Primary Domain**
-
-Banking Analytics
-
----
-
-# 📬 Contact Information
-
-- **Author:** Shravan Pandey
-- **GitHub:** https://github.com/your-username
-- **LinkedIn:** https://www.linkedin.com/in/your-profile
-- **Email:** your.email@example.com
-
-> Replace the GitHub, LinkedIn, and email placeholders above with your actual profile links before publishing the repository.
-
----
+Industry-Oriented End-to-End Machine Learning Projec
 
 # ⭐ Support the Project
 
