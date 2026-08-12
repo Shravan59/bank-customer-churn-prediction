@@ -1,0 +1,2 @@
+CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActiveMember,EstimatedSalary,Prediction,Probability,Confidence,Risk Level
+619,France,Female,42,2,0,1,1,1,101348.88,0,0.27340283467559384,0.7265971653244061,Low

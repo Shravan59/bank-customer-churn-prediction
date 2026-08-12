@@ -1,0 +1,10 @@
+{
+    "project_name": "Bank Customer Churn Prediction",
+    "project_version": "1.0",
+    "training_timestamp": "2026-08-05",
+    "target_column": "Exited",
+    "feature_names": [],
+    "number_of_input_features": 13,
+    "model_type": "RandomForestClassifier",
+    "random_seed": 42
+}
